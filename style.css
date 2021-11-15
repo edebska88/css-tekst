@@ -1,11 +1,15 @@
-h1 {text-align: center;
-    color:#0000ff;
-    text-shadow: 2px 2px 4px whitesmoke;
-  }
-p {text-align: center;
-    color:black;
-    font-size: 20px;
-  }
+h1 {
+  text-align: center;
+  color: #0000ff;
+  text-shadow: 2px 2px 4px whitesmoke;
+}
 
-span {color:#ff0000;
-  }
+p {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+span {
+  color: #ff0000;
+}
